@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+      <Scriptkid_Telephonenotrequired>
+          <version>0.1.0</version>
+      </Scriptkid_Telephonenotrequired>
+  </modules>
+  <global>
+      <resources>
+          <scriptkid_telephonenotrequired_setup>
+              <setup>
+                  <module>Scriptkid_Telephonenotrequired</module>
+              </setup>
+          </scriptkid_telephonenotrequired_setup>
+      </resources>
+  </global>
+</config>
